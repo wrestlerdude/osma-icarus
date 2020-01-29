@@ -1,6 +1,6 @@
-# Project Osma
+# Project Osma: Icarus
 
-This repository is the home of Project Osma, an open source mobile agent for achieving self sovereign identity (SSI).
+This repository is the home of Project Osma: Icarus, an open source fork of the osma mobile agent for achieving self sovereign identity (SSI).
 
 The primary goals of this project is to provide a common project to progress emerging community standards around mobile agents.
 
