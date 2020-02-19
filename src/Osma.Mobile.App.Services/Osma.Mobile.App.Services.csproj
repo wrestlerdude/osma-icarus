@@ -22,6 +22,7 @@
     <PackageReference Include="Autofac" Version="4.9.4" />
     <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="5.0.1" />
     <PackageReference Include="Hyperledger.Aries" Version="1.1.4" />
+    <PackageReference Include="UXDivers.GorillaPlayer.SDK" Version="1.5.5" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
